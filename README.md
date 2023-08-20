@@ -13,6 +13,7 @@
 |ed2|edit files with ed2|`ed [file]`|🟢|
 |mkdir|make directories|`mkdir [dir name]`|🔴|
 |mv|move a file/directory|`mv [file/directory] [/path/to/place]`|🔴|
+|bpsh|shell|-|🟢|
 
 ## //Install
 
